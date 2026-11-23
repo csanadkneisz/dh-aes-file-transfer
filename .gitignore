@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+.venv_old/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Documents and archives (not part of the repository)
+*.pdf
+*.docx
+*.zip
+
+# Files produced while trying the tool out
+received_*
+downloads/
+message.txt
+*.bin
